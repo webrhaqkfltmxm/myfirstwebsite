@@ -1,0 +1,55 @@
+<> </>   tag
+
+<strong> </strong>  진하게 표시, 강조
+
+<u> </u>   밑줄
+
+<h> </h> 제목 나타내기, h 뒤에 1~6은 글자크기
+
+<br> 줄 바꿈
+
+<p> </p> 단락
+
+<img src="이미지.jpg"width="?%"> 
+<img width="?%"src="이미지.jpg">
+이미지를 ?크기만큼 입력
+
+<li></li> 리스트
+
+<ul>
+ <li></li>
+</ul> li테그를 단락 짓기
+
+<ol>
+ <li></li>
+</ol> li테그 순서 붙히기
+
+<table>
+     <tr>
+           <td>A</td>         
+           <td>a</td>
+     </tr>
+     <tr>
+           <td>B</td>
+           <td>b</td>
+     </tr>
+</table> 2*2 표 만들기
+
+<title></title> 사이트의 이름을 표시
+
+<meta charset="utf=8"> 파일에 한글이 안깨지게 utf=8로 프로그램 실행
+
+무조건 본문은 <body></body>로 묶고
+무조건 본문의 제목은 <head></head> 로 묶기
+그리고
+<!doctype html>
+<html>
+<head>
+<body>
+</body>
+</head>
+</html>
+
+<a></a> 링크 테그
+<a href="링크"target="_blank" title="A"></a>
+h링크 텍스트, ref참조, target="_blank"새창열기, title="A" A라고 미리 타이틀 보여주기
